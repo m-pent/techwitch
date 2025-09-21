@@ -1,0 +1,30 @@
+# Generated files by hugo
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+
+# Temporary lock file while building
+/.hugo_build.lock
+
+#Hugo executables
+hugo.exe
+hugo.darwin
+hugo.linux
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+#Env variable file
+.env
+
+# Visual Studio code coverage results
+*.coverage
+*.coveragexml

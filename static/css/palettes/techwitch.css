@@ -1,0 +1,23 @@
+:root {
+  --base00: #242629; /* background */
+  --base01: #2e3133; /* alt background */
+  --base02: #3a3d40; /* code block bg */
+  --base03: #6c6f72; /* muted text */
+  --base04: #FF00FF; /* alt foreground */
+  --base05: #39FF14; /* main text – neon green */
+  --base06: #cfd1d3;
+  --base07: #ffffff; /* lightest */
+
+  --base08: #FF00FF; /* red-ish — vibrant pink */
+  --base09: #e0a5ed; /* orange-ish — your link shade */
+  --base0A: #f7e433; /* yellow – contrast highlight */
+  --base0B: #39FF14; /* green – repeated for thematic tie */
+  --base0C: #4b0082; /* cyan-ish – deep indigo */
+  --base0D: #e0a5ed; /* blue – matching links */
+  --base0E: #bb86fc; /* magenta – witchy glow */
+  --base0F: #8b008b; /* brown – dark magenta */
+}
+
+.sidebar .fa-brands {
+  color: var(--base0C); /* or var(--base09) for your lavender links */
+}
