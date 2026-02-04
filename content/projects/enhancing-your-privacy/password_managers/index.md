@@ -1,6 +1,6 @@
 +++
-date = '2025-09-21T17:12:11+01:00'
 title = 'Password Managers and 2FA'
+date = '2025-09-21T17:12:11+01:00'
 author = 'gothintheshell'
 draft = false
 +++
