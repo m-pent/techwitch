@@ -47,7 +47,7 @@ url = "https://github.com/m-pent"
 [[params.socialLinks]]
 icon = "fa-brands fa-mastodon"
 title = "Mastodon"
-url = "https://infosec.exchange/@cosyskog"
+url = "https://masto.gothydreams.space/@gothintheshell"
 
 [[params.socialLinks]]
 icon = "fa-brands fa-bluesky"
