@@ -1,6 +1,6 @@
 +++
-date = '2026-01-24T19:42:36Z'
 title = 'Email'
+date = '2026-01-24T19:42:36Z'
 author = 'gothintheshell'
 draft = false
 +++

@@ -1,6 +1,6 @@
 +++
-date = '2025-07-18T19:43:37+01:00'
 title = 'Setting up my GitHub Pages deployment and custom domain: It is always DNS (my fears)'
+date = '2025-07-18T19:43:37+01:00'
 author = 'gothintheshell'
 draft = false
 +++

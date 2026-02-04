@@ -1,6 +1,6 @@
 +++
-date = '2025-08-21T18:49:58+01:00'
 title = 'A start'
+date = '2025-08-21T18:49:58+01:00'
 author = 'gothintheshell'
 draft = false
 +++

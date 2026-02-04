@@ -1,6 +1,6 @@
 +++
-date = '2025-08-31T11:36:25+01:00'
 title = 'Browsers, Browser Extensions and Search Engines'
+date = '2025-08-31T11:36:25+01:00'
 author = 'gothintheshell'
 draft = false
 +++
