@@ -11,7 +11,7 @@ Look, who wouldn't want to chill under a couple of chairs and a blanket, or a bl
 
 In all honesty, lately we've been listening to a friend's weekly radio show [The Bitter Sound Experience](https://www.mixcloud.com/bittersoundradio/) on Noisebox Radio, and my other friend's radio show [Jon.Digital](https://bff.fm/people/thejc79) on BFF.fm, and it's inspired me to share a bit of my own musical tastes. While I once had a podcast, "about movies and sex but not together because that would be porn," I don't think I'm ready for my own radio show, but I figured as it's Friday why not share a few songs on my current playlist that maybe others will enjoy.
 
-Maybe it's a one off, maybe it becomes it's own thing, but I don't know for now. 
+Maybe it's a one off, maybe it becomes its own thing, but I don't know for now. 
 
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/fBO3Gm4OWTrMbhjqmY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
