@@ -47,12 +47,12 @@ url = "https://github.com/m-pent"
 [[params.socialLinks]]
 icon = "fa-brands fa-mastodon"
 title = "Mastodon"
-url = "https://masto.gothydreams.space/@gothintheshell"
+url = "https://mstdn.games/@gothintheshell"
 
 [[params.socialLinks]]
 icon = "fa-brands fa-bluesky"
 title = "Bluesky"
-url = "https://bsky.app/profile/gothintheshell.bsky.social"
+url = "https://bsky.app/profile/gothydreams.space"
 
 
 [menu]
